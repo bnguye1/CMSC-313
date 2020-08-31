@@ -20,7 +20,7 @@
   
 - Fun Fact: Computers today are almost all quad words
 
-#### Positional Numbering Systems 
+#### - Positional Numbering Systems -
 - Decimal (base 10)
   - 1465<sub>10</sub> = (1 x 10<sup> 3 </sup>) + (4 x 10<sup> 2 </sup>) + 6 x 10<sup> 1 </sup>) + (5 x 10<sup> 0 </sup>) = 1000 + 400 + 60 + 5
   
