@@ -22,7 +22,7 @@
 
 #### - Positional Numbering Systems -
 - Decimal (base 10)
-  - 1465<sub>10</sub> = (1 x 10<sup> 3 </sup>) + (4 x 10<sup> 2 </sup>) + 6 x 10<sup> 1 </sup>) + (5 x 10<sup> 0 </sup>) = 1000 + 400 + 60 + 5
+  - 1465<sub> 10 </sub> = (1 x 10<sup> 3 </sup>) + (4 x 10<sup> 2 </sup>) + 6 x 10<sup> 1 </sup>) + (5 x 10<sup> 0 </sup>) = 1000 + 400 + 60 + 5
   
 - Any integer can be shown in any base (<b>radix</b>)
 
@@ -31,3 +31,7 @@
   - Binary (2)
   - Hexadecimal (16)
   - Octal (8)
+
+- Examples
+  - 101<sub> 2 </sub> = (1 x 2<sup> 2 </sup>) + (0 x 2<sup> 1 </sup>) + (1 x 2<sup> 0 </sup>) = 5<sub> 10 </sub>)
+  - 2AF<sub> 16 </sub> = ?
