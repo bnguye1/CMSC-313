@@ -5,8 +5,6 @@
   - Converting from Decimal to Binary
   - Converting between bases
   - Decimal to Hex to Binary
-- Signed Numbers
-- IEEE Floating Point
   
 ### Number Systems
 
