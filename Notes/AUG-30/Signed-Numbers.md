@@ -1,5 +1,5 @@
 ## Topics Covered
-- Number Systems
+- Signed Numbers
   - Signed Binary
   - Signed Magnitude
   - One's Complement
