@@ -1,4 +1,3 @@
-# August 30 Week Notes
 ## Topics Covered
 - Number Systems
   - Positional Numbering Systems
