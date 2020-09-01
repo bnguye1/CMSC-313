@@ -25,7 +25,7 @@
   
 - <b>Fun Fact: Computers today are almost all quad words</b>
 
-#### - Positional Numbering Systems -
+### - Positional Numbering Systems -
 
 - Decimal (base 10)
   - 1465<sub> 10 </sub> = (1 x 10<sup> 3 </sup>) + (4 x 10<sup> 2 </sup>) + 6 x 10<sup> 1 </sup>) + (5 x 10<sup> 0 </sup>) = 1000 + 400 + 60 + 5
@@ -42,7 +42,7 @@
   - 101<sub> 2 </sub> = (1 x 2<sup> 2 </sup>) + (0 x 2<sup> 1 </sup>) + (1 x 2<sup> 0 </sup>) = 5<sub> 10 </sub>
   - 2AF<sub> 16 </sub> = ?
   
-#### - Converting from Decimal to Binary -
+### - Converting from Decimal to Binary -
 
 - Encode between different bases by using long division
 
@@ -55,7 +55,7 @@
  
  0 + 64 + 32 + 16 + 0 + 0 + 2 + 1 = 115
  
- #### - Converting between bases -
+ ### - Converting between bases -
  - Convert 100.1101<sub> 2 </sub>
   - 100.1101<sub> 2 </sub> = (1 x 2<sup> 2 </sup>) + (0 x 2<sup> 1 </sup>) + (0 x 2<sup> 0 </sup>) + (1 x 2<sup> -1 </sup>) + (1 x 2<sup> -2 </sup>) + (0 x 2<sup> -3 </sup>) + (1 x 2<sup> -4 </sup>) = (4.8125)<sup> 10 </sup>
   
