@@ -1,2 +1,5 @@
 # CMSC-313
-All the assignments of 313
+- Projects
+- Notes
+- Homeworks
+- All from Sekyonda Class
