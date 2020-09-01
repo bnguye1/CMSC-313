@@ -62,5 +62,5 @@
  - Convert 4.8125<sub> 10 </sub>
   - 4.8125<sub> 10 </sub> = 100.1101
   
- #### - Decimal to Hex to Binary Conversion Table -
+ ### - Decimal to Hex to Binary Conversion Table -
  ![Conversion Table](conversion_table.PNG)
