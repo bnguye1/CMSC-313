@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Users/ugly/iCloudDrive/Work Folder/CMSC 313/Spring 2020/Projects/Project 1/SimpleProcessor/ALU_ALU_sch_tb_isim_beh.exe" -prj "C:/Users/ugly/iCloudDrive/Work Folder/CMSC 313/Spring 2020/Projects/Project 1/SimpleProcessor/ALU_ALU_sch_tb_beh.prj" "ALU_ALU_sch_tb" 
