@@ -56,8 +56,8 @@
 
 - Arithmetic Examples
   - Find the sum of 5 and -3 (prob wrong, gonna go back and check later)
-    - +5 is : 00000101
-    - -3 is : 11111100
+    - +5 is  : 00000101
+    - -3 is  : 11111100
     - Sum is : 00000010
     
   - <b><i>Note: Carry out is added to the sum</i></b>
