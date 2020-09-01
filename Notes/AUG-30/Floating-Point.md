@@ -19,3 +19,12 @@
     - 11 bits for exponent
     - 52 bits for fraction
   
+### - IEEE Floating Point Format -
+- Convert the following to IEEE Floating Point
+  - 0.75<sub> 10 </sub>
+  - 4.75<sub> 10 </sub>
+  
+- Convert the following from IEEE Floating Point to Decimal
+  - 0 01111110 10000000000000000000000<sub> 2 </sub>
+  - 0 10000111 00000111010011001100110<sub> 2 </sub>
+  - (-1)<sup> s </sup> x (1 + m) x 2<sup> e </sup>
